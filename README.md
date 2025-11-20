@@ -15,7 +15,6 @@ Pastikan Anda sudah menginstall:
 
 ```bash
 https://github.com/Spyrx4/belajar_ml.git
-cd belajar_ml
 ```
 
 ### 2. Buat Virtual Environment dari File `mlenv.yml`
@@ -127,7 +126,3 @@ conda env export --no-builds > mlenv.yml
 - Selalu aktivasi environment sebelum menjalankan program
 - Jangan install package di base environment, gunakan environment khusus
 - Backup file `mlenv.yml` jika melakukan perubahan
-
-## Kontak
-
-Jika ada pertanyaan atau masalah, silakan buat issue di repository ini.
