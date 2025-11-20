@@ -14,7 +14,7 @@ Pastikan Anda sudah menginstall:
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/belajar_ml/belajar_ml.git
+https://github.com/Spyrx4/belajar_ml.git
 cd belajar_ml
 ```
 
