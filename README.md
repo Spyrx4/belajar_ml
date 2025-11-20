@@ -1,6 +1,6 @@
 # Panduan Instalasi Virtual Environment
 
-Repository ini berisi environment configuration untuk project machine learning. Ikuti langkah-langkah berikut untuk setup environment.
+Repository ini berisi environment configuration untuk project belajar machine learning. Ikuti langkah-langkah berikut untuk setup environment.
 
 ## Prerequisites
 
@@ -14,8 +14,7 @@ Pastikan Anda sudah menginstall:
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/belajar_ml/belajar_ml.git
-cd belajar_ml
+https://github.com/Spyrx4/belajar_ml.git
 ```
 
 ### 2. Buat Virtual Environment dari File `mlenv.yml`
@@ -127,7 +126,3 @@ conda env export --no-builds > mlenv.yml
 - Selalu aktivasi environment sebelum menjalankan program
 - Jangan install package di base environment, gunakan environment khusus
 - Backup file `mlenv.yml` jika melakukan perubahan
-
-## Kontak
-
-Jika ada pertanyaan atau masalah, silakan buat issue di repository ini.
