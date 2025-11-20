@@ -1,6 +1,6 @@
 # Panduan Instalasi Virtual Environment
 
-Repository ini berisi environment configuration untuk project machine learning. Ikuti langkah-langkah berikut untuk setup environment.
+Repository ini berisi environment configuration untuk project belajar machine learning. Ikuti langkah-langkah berikut untuk setup environment.
 
 ## Prerequisites
 
